@@ -1,12 +1,14 @@
 /* Aplica plano de fundo ao site todo */
 body {
-    background-image: url('imagens/fundobar.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    color: #fff;
-  }
+  background-color: black; /* Cor de fundo preta */
+  background-image: url('imagens/fundobar.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: #fff; /* Cor do texto em branco para contraste */
+}
+
   
   .custom-navbar {
     background-color: #000000d8; /* Altere para a cor desejada */
